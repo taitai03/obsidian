@@ -4,21 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ab6ef57ecf736242",
+        "id": "169496c7a414123f",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5c64ebf7895d3b",
+            "id": "fc5bc08e28912ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "雑学び/2026-03-01.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のカンバン.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-03-01"
+              "icon": "lucide-trello",
+              "title": "無題のカンバン"
             }
           }
         ]
@@ -191,13 +197,17 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "cb5c64ebf7895d3b",
+  "active": "fc5bc08e28912ecd",
   "lastOpenFiles": [
-    "オブジェクト指向/七章.md",
+    "無題のファイル.base",
+    "無題のカンバン.md",
+    "無題のファイル.canvas",
     "雑学び/2026-03-01.md",
+    "オブジェクト指向/七章.md",
     "スクショ/スクリーンショット 2026-03-01 16.54.49.png",
     "スクショ/スクリーンショット 2026-03-01 16.50.23.png",
     "README.md",
@@ -231,8 +241,6 @@
     "研究に向けた知識系/基礎知識/2025-12-19.md",
     "研究に向けた知識系/基礎知識/2025-12-03.md",
     "研究に向けた知識系/基礎知識",
-    "研究に向けた知識系",
-    "業務系メモ/頻繁に使うテンプレート.md",
     "スクショ/スクリーンショット 2026-02-17 15.57.52.png",
     "スクショ/スクリーンショット 2026-02-08 0.11.15.png",
     "スクショ/スクリーンショット 2026-02-07 23.52.16.png",
