@@ -7,7 +7,6 @@ kanban-plugin: board
 ## TodoList
 
 - [ ] 機械学習チャプター４
-- [ ] 出る1000
 - [ ] コンビニ人間
 - [ ] イーロンストーリー飽きる前
 - [ ] オブジェクト指向まとめ切る
@@ -21,6 +20,8 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] 出る1000
+	30分集中
 
 
 ## History

@@ -22,6 +22,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "25a3ba80fcfcfe64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c4d07c9f1c8c5ea",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDoList.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "ToDoList"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +222,10 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "55bdadaadc51cf82",
+  "active": "7c4d07c9f1c8c5ea",
   "lastOpenFiles": [
-    "ToDoList.md",
     "学びファイル/2026-03-02.md",
+    "ToDoList.md",
     "無題のファイル.base",
     "無題のファイル.canvas",
     "学びファイル/2026-03-01.md",
