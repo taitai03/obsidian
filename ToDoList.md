@@ -1,15 +1,11 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## TodoList
 
 - [ ] 機械学習チャプター４
-- [ ] コンビニ人間
 - [ ] イーロンストーリー飽きる前
-- [ ] オブジェクト指向まとめ切る
 - [ ] 研究
 
 
@@ -20,12 +16,6 @@ kanban-plugin: board
 
 ## Done
 
-- [ ] 出る1000
-	30分集中
-
-
-## History
-
 
 
 ***
@@ -35,9 +25,13 @@ kanban-plugin: board
 - [x] toiec
 - [ ] f
 - [x] 会議
+- [ ] コンビニ人間
+- [ ] オブジェクト指向まとめ切る @{2026-03-01}
+- [ ] 出る1000
+	30分集中 @{2026-03-01}
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"archive-with-date":true}
 ```
 %%
