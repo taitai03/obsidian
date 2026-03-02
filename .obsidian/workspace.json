@@ -11,20 +11,14 @@
             "id": "fc5bc08e28912ecd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "無題のカンバン.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "学びファイル/2026-03-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "無題のカンバン"
+              "icon": "lucide-file",
+              "title": "2026-03-02"
             }
           }
         ]
@@ -201,12 +195,13 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "fc5bc08e28912ecd",
+  "active": "55bdadaadc51cf82",
   "lastOpenFiles": [
+    "ToDoList.md",
+    "学びファイル/2026-03-02.md",
     "無題のファイル.base",
-    "無題のカンバン.md",
     "無題のファイル.canvas",
-    "雑学び/2026-03-01.md",
+    "学びファイル/2026-03-01.md",
     "オブジェクト指向/七章.md",
     "スクショ/スクリーンショット 2026-03-01 16.54.49.png",
     "スクショ/スクリーンショット 2026-03-01 16.50.23.png",
@@ -220,8 +215,8 @@
     "出没したエラー/文法基礎.md",
     "出没したエラー/Git関連.md",
     "出没したエラー",
-    "雑学び/2026-02-17.md",
-    "雑学び",
+    "学びファイル/2026-02-17.md",
+    "学びファイル",
     "個人開発系/個人開発日記/2025-12/2025-12-30.md",
     "個人開発系/個人開発日記/2025-12/2025-12-08.md",
     "個人開発系/個人開発日記/2025-11/2025-11-30.md",
